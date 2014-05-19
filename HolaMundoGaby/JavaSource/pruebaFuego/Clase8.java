@@ -11,6 +11,7 @@ public class Clase8 {
 	}
 
 	public void teamo(){
+		System.out.println("Yo te amo mas");
 		
 	}
 }
